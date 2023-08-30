@@ -7,3 +7,5 @@
 6. "mkdir /tmp/my_first_directory" - Create a script that creates a directory in another directory.
 7. "mv /tmp/betty /tmp/my_first_directory" - Move a file from one directory to another.
 8. "rm /tmp/my_first_directory/betty" - Delete the file in the directory.
+9. "rmdir /tmp/my_first_directory" - Delete a directory in another directory.
+10. "cd .." Write a script that changes the working directory to the previous one.
