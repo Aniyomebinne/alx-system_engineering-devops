@@ -11,3 +11,4 @@ Owner: no permission at all
 Group: no permission at all
 Other users: all the permissions.
 9. "chmod 753" - Write a script that sets the mode of the file hello to this: -rwxr-x-wx
+10. "chmod --reference=olleh hello" - Write a script that sets the mode of the file hello the same as olleh’s mode.
